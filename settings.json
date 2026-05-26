@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24/7AKFBOT",
+    "username": "24/7BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "CBSE-VfF6.aternos.me:20608",
+    "ip": "CBSE-VfF6.aternos.me:",
     "port": 20608,
     "version": "",
     "try-creative": false
